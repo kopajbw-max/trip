@@ -1,11 +1,19 @@
-# 내 여행 특가 AI 사이트 ✈️🏖️
-
-### AI가 추천하는 최저가 항공권과 숙소 찾기
-
-- AI 기반으로 실시간 항공권, 숙소 특가를 찾아드립니다.  
-- 스크롤 애니메이션으로 보기 편한 UI 제공  
-- 라이트 모드와 다크 모드 지원  
-- 모바일 먼저 디자인, 데스크탑 최적화 완료  
-- 모든 기기에서 아름답고 쾌적한 인터페이스 보장  
-
-![여행 이미지](/preview.png)
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>내 여행 특가 AI 사이트</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+    h1 { color: #2c3e50; }
+    p { font-size: 1.2em; color: #34495e; }
+    img { max-width: 300px; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h1>내 여행 특가 AI 사이트</h1>
+  <p>AI가 실시간으로 항공권과 숙소 최저가를 찾아드립니다.</p>
+  <img src="preview.png" alt="여행 이미지" />
+</body>
+</html>
