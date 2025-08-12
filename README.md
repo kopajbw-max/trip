@@ -1,13 +1,11 @@
-# Responsive Travel Website 🌊
-## [Watch it on youtube](https://youtu.be/YzRDHxbw1RU)
-###  Responsive Travel Website 🌊
+# 내 여행 특가 AI 사이트 ✈️🏖️
 
-- Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+### AI가 추천하는 최저가 항공권과 숙소 찾기
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- AI 기반으로 실시간 항공권, 숙소 특가를 찾아드립니다.  
+- 스크롤 애니메이션으로 보기 편한 UI 제공  
+- 라이트 모드와 다크 모드 지원  
+- 모바일 먼저 디자인, 데스크탑 최적화 완료  
+- 모든 기기에서 아름답고 쾌적한 인터페이스 보장  
 
-![travel-website](/preview.png)
+![여행 이미지](/preview.png)
